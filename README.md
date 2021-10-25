@@ -1,3 +1,3 @@
-# kunal-mohta.github.io
+# adityatulsyan.github.io
 
-Personal website - <a href = "https://kunal-mohta.github.io" target = "_blank">Link</a>
+Personal website - <a href = "https://adityatulsyan.github.io" target = "_blank">Link</a>
